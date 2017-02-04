@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>C:/Users/User/Desktop/QT_Project/Save-icon.png</file>
+        <file>C:/Users/User/Desktop/QT_Project/open-file-icon.png</file>
+        <file>C:/Users/User/Desktop/QT_Project/Actions-edit-undo-icon.png</file>
+        <file>C:/Users/User/Desktop/QT_Project/Cursor-Select-icon.png</file>
+        <file>C:/Users/User/Desktop/QT_Project/Mobile-Rotate-To-Landscape-icon.png</file>
+        <file>C:/Users/User/Desktop/QT_Project/Mobile-Rotate-To-Portrait-icon.png</file>
+        <file>C:/Users/User/Desktop/QT_Project/Actions-edit-redo-icon.png</file>
+        <file>C:/Users/User/Desktop/QT_Project/Crop-2-icon.png</file>
+        <file>C:/Users/User/Desktop/QT_Project/Zoom-In-icon.png</file>
+        <file>C:/Users/User/Desktop/QT_Project/Zoom-Out-icon.png</file>
+    </qresource>
+</RCC>
